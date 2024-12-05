@@ -1,17 +1,5 @@
 <h1 align="center">Hi, I'm Prakhar 👋</h1>
-<h3 align="center">A passionate Web Developer and Application Security Engineer from India</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwal-prakhar&label=Profile%20views&color=0e75b6&style=flat" alt="agarwal-prakhar" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Project on React.**
-
-- 🌱 I’m currently learning **MERN Stack.**
-
-- 👯 I’m looking to collaborate on **Web3 Projects, Bug Bounties and Startup Ideas.**
-
-- 📫 Feel free to reach me out at **realprakhar@outlook.com**
-
-- ⚡ Fun fact **"170 is the maximum check-out possible in a standard game of darts (where the final score must be a double)."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
